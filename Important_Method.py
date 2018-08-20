@@ -47,3 +47,6 @@ list3=list1
 list3[0]="hi"
 print(list3)
 print(list1)
+#SHALLOW COPY:A shallow copy constructs a new compound object and then (to the extent possible) inserts references into it to the objects found in the original.
+#DEEP COPY:A deep copy constructs a new compound object and then, recursively, inserts copies into it of the objects found in the original."""
+
